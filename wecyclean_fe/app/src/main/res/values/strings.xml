@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">우리사이클린</string>
+    <string name="title_activity_home.kt">Home.kt</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="title_activity_camera">CameraActivity</string>
+    <string name="title_activity_community">CommunityActivity</string>
+    <string name="title_activity_post_list">PostListActivity</string>
+    <string name="title_activity_post">PostActivity</string>
+    <string name="title_activity_add_post">AddPostActivity</string>
+    <string name="title_activity_permission">PermissionActivity</string>
+    <string name="title_activity_reward">RewardActivity</string>
+    <string name="title_activity_test">test</string>
+    <string name="title_activity_search_result">SearchResult</string>
+</resources>
