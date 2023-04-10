@@ -1,9 +1,10 @@
 <img width="986" alt="logo image" src="https://user-images.githubusercontent.com/101182523/205540530-c54067ff-0b4f-4756-a8aa-b2ceda315f4e.png">
 
-## ✔︎ 프로젝트 우리사이클린
+## ✔︎ 우리사이클린
 
 우리사이클린은 **삼육대학교 캡스톤디자인** 과목을 통해 진행되었으며<br>
 분리수거에 관한 정보를 제공하는 어플리케이션입니다.<br>
+[발표자료](https://drive.google.com/file/d/1f_yNjBcLedJgLfBnoBh-DYjPS1s5XDgB/view)
 
 
 ## 👤 팀 구성
